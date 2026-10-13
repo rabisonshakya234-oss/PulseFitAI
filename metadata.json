@@ -1,0 +1,8 @@
+{
+  "name": "PulseFit AI - Wearable & Gym Tracker",
+  "description": "Real-time wearable heart rate and sleep pattern tracker with AI personal gym coach, dynamic workout routines, nutrition planning, and social badges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
